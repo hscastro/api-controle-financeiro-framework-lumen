@@ -50,13 +50,13 @@ class ContaApiController extends Controller
 
 
     public function findById($id){
-    	$conta = Filme::find($id);
+    	$conta = Conta::find($id);
         return Response()->json($conta);
     }
 
     //métod para excluir uma conta
     public function deleteConta($id){
-    	$conta = Filme::find($id);
+    	$conta = Conta::find($id);
     	$conta->delete();
        return Response()->json($conta);
     }
