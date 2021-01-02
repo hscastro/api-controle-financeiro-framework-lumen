@@ -6,14 +6,16 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 
 
-class Conta extends Model{
+class Cliente extends Model{
 
-    protected $table = 'tb_contas';
+    protected $table = 'tb_clientes';
 
     public $timestamps = false;
     
     protected $fillable = [
-        'numero', 'saldo', 'cliente_id', 
+        'nome', 'cpf', 'rg',
+        'data_nascimento','email',
+        'telefone' ,'endereco', 
     ];
 
     
