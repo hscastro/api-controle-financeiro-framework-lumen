@@ -14,7 +14,7 @@
           <mxGeometry x="16" y="200" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
-          <mxGeometry x="86" y="166" width="34" height="34" as="geometry" />
+          <mxGeometry x="76" y="166" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-4" value="&lt;b&gt;Orchestrator&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
           <mxGeometry x="266" y="200" width="134" height="60" as="geometry" />
@@ -22,9 +22,9 @@
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
           <mxGeometry x="316" y="166" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="QWuWAwB0CTBxhZb6yjvo-9" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;entryX=0.993;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-9" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;entryX=0.993;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.022;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" source="QWuWAwB0CTBxhZb6yjvo-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="266.94" y="246.98000000000002" as="sourcePoint" />
+            <mxPoint x="256" y="240" as="sourcePoint" />
             <mxPoint x="150.002" y="239.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -50,11 +50,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-17" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;order-db&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#E6E6E6;fillColor=#007FFF;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
-          <mxGeometry x="40" y="330" width="60" height="70" as="geometry" />
+          <mxGeometry x="36" y="310" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QWuWAwB0CTBxhZb6yjvo-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.388;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-2">
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.388;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="66" y="330" as="sourcePoint" />
+            <mxPoint x="68" y="310" as="sourcePoint" />
             <mxPoint x="116" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -65,7 +65,7 @@
           <mxGeometry x="680" y="185" width="76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-24" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;inventory-db&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#E6E6E6;fillColor=#007FFF;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
-          <mxGeometry x="680" y="325" width="76" height="75" as="geometry" />
+          <mxGeometry x="670" y="325" width="86" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,10 +79,43 @@
             <mxPoint x="680" y="224.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWuWAwB0CTBxhZb6yjvo-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.07;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="359.5" as="sourcePoint" />
-            <mxPoint x="680" y="359.5" as="targetPoint" />
+            <mxPoint x="666" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="536" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="536" y="161" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="536" y="296" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="235" as="sourcePoint" />
+            <mxPoint x="450" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.985;entryY=0.617;entryDx=0;entryDy=0;flowAnimation=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" source="QWuWAwB0CTBxhZb6yjvo-11" target="QWuWAwB0CTBxhZb6yjvo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="281" as="sourcePoint" />
+            <mxPoint x="502" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;flowAnimation=1;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" source="QWuWAwB0CTBxhZb6yjvo-4" target="QWuWAwB0CTBxhZb6yjvo-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="366" y="240" as="sourcePoint" />
+            <mxPoint x="416" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.985;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496" y="350" as="sourcePoint" />
+            <mxPoint x="472" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
