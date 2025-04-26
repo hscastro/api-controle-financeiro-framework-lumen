@@ -118,6 +118,15 @@
             <mxPoint x="472" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="26" y="30" width="67.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-57" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="130" y="30" width="70" height="57.4" as="geometry" />
+        </mxCell>
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
+          <mxGeometry x="236" y="27" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
