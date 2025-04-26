@@ -65,7 +65,7 @@
           <mxGeometry x="680" y="185" width="76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-24" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;inventory-db&lt;/b&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#E6E6E6;fillColor=#007FFF;" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
-          <mxGeometry x="670" y="325" width="86" height="75" as="geometry" />
+          <mxGeometry x="675" y="322.5" width="86" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,10 +79,10 @@
             <mxPoint x="680" y="224.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWuWAwB0CTBxhZb6yjvo-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.07;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-24">
+        <mxCell id="QWuWAwB0CTBxhZb6yjvo-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QWuWAwB0CTBxhZb6yjvo-1" target="QWuWAwB0CTBxhZb6yjvo-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="359.5" as="sourcePoint" />
-            <mxPoint x="666" y="360" as="targetPoint" />
+            <mxPoint x="666" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QWuWAwB0CTBxhZb6yjvo-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-spring-boot-128.png" vertex="1" parent="QWuWAwB0CTBxhZb6yjvo-1">
